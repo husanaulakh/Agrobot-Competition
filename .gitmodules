@@ -1,0 +1,3 @@
+[submodule "Maize-Detection"]
+	path = Maize-Detection
+	url = https://github.com/husanaulakh/Maize-Detection.git
